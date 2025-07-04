@@ -19,8 +19,8 @@ This project implements an anomaly detection system for handwritten digits using
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/SaiAbhiramBussa/Anomaly-Detection-using-Deep-Learning.git
+cd Anomaly Detection Major Project
 ```
 
 2. Install the required packages:
@@ -40,10 +40,17 @@ streamlit run app.py
 3. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
 
 ## Usage
+![Screenshot (124)](https://github.com/user-attachments/assets/10ce3e28-759d-4029-98be-90c8842ff799)
 
 1. Upload an image:
    - Click on "Choose an image..." to upload a handwritten digit image
    - Supported formats: JPG, JPEG, PNG
+![Screenshot (125)](https://github.com/user-attachments/assets/387bdc1f-d99f-4a9c-aa09-7c40a7afb0d5)
+![Screenshot (126)](https://github.com/user-attachments/assets/33ce3cec-ce67-4c6f-a8bc-a122d8035986)
+
+
+
+![Screenshot (127)](https://github.com/user-attachments/assets/b955e493-fa7d-4f27-984d-196cb98e0e4f)
 
 2. View results:
    - The application will display:
@@ -53,9 +60,24 @@ streamlit run app.py
      - Anomaly status
      - Error distribution
 
+
+![Screenshot (128)](https://github.com/user-attachments/assets/0e58be20-f21a-4984-b7f8-01da8ae8a8bb)
+
+![Screenshot (129)](https://github.com/user-attachments/assets/16188794-6862-4217-a35d-4f3f600a658e)
+
+
+
+
 3. Sample Images(Choose from testSet folder):
    - Use the provided sample images to test the system
    - These images demonstrate different types of anomalies
+  
+![img_1](https://github.com/user-attachments/assets/54edda10-17eb-4455-abe0-6819668db2f6)
+
+![img_7](https://github.com/user-attachments/assets/5e7c2afc-b24d-498d-be2d-21ba7a16e9b4)
+
+![img_19](https://github.com/user-attachments/assets/fd7d4eb9-872c-4735-a235-c2be350137b0)
+
 
 ## Project Structure
 
