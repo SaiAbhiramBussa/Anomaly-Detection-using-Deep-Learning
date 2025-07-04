@@ -72,11 +72,11 @@ streamlit run app.py
    - Use the provided sample images to test the system
    - These images demonstrate different types of anomalies
   
-![img_1](https://github.com/user-attachments/assets/54edda10-17eb-4455-abe0-6819668db2f6)
+     ![img_1](https://github.com/user-attachments/assets/54edda10-17eb-4455-abe0-6819668db2f6)
 
-![img_7](https://github.com/user-attachments/assets/5e7c2afc-b24d-498d-be2d-21ba7a16e9b4)
+     ![img_7](https://github.com/user-attachments/assets/5e7c2afc-b24d-498d-be2d-21ba7a16e9b4)
 
-![img_19](https://github.com/user-attachments/assets/fd7d4eb9-872c-4735-a235-c2be350137b0)
+     ![img_19](https://github.com/user-attachments/assets/fd7d4eb9-872c-4735-a235-c2be350137b0)
 
 
 ## Project Structure
